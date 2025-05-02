@@ -34,7 +34,11 @@ export function dateRange(startDate: Date, endDate?: Date | string): string {
       endMonth = endDate.toLocaleString("default", { month: "short" });
       endYear = endDate.getFullYear().toString();
     }
+
+    if (startMonth === endMonth && startYear === endYear) {
+      return `${startMonth} ${startYear}`;
+    }
   }
 
-  return `${startMonth}${startYear} - ${endMonth}${endYear}`;
+  return `${startMonth} ${startYear} - ${endMonth} ${endYear}`;
 }
