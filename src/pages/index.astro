@@ -21,6 +21,7 @@ const allwork = (await getCollection("work"))
   .slice(0, SITE.NUM_WORKS_ON_HOMEPAGE);
 
 const alleducation = (await getCollection("education"))
+  .filter((education) => education.data.type === "education")
   .sort(
     (a, b) =>
       new Date(b.data.dateStart).valueOf() -
@@ -50,9 +51,7 @@ const education = await Promise.all(
     </h4>
     <div class="space-y-16">
       <section>
-        <article class="space-y-4">
-          
-        </article>
+        <article class="space-y-4"></article>
       </section>
 
       <section class="animate space-y-6">
@@ -64,22 +63,20 @@ const education = await Promise.all(
         </div>
         <ul class="flex flex-col space-y-4">
           {
-            education
-              .filter((entry) => entry.data.type === "education")
-              .map((entry) => (
+            education.map((entry) => (
               <li>
                 <div class="text-sm opacity-75">
-                {dateRange(entry.data.dateStart, entry.data.dateEnd)}
+                  {dateRange(entry.data.dateStart, entry.data.dateEnd)}
                 </div>
                 <div class="font-semibold text-black dark:text-white">
-                {entry.data.institution}
+                  {entry.data.institution}
                 </div>
                 <div class="text-sm opacity-75">{entry.data.degree}</div>
                 <article>
-                <entry.Content />
+                  <entry.Content />
                 </article>
               </li>
-              ))
+            ))
           }
         </ul>
       </section>
