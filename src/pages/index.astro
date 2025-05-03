@@ -46,7 +46,7 @@ const education = await Promise.all(
 
 <PageLayout title={HOME.TITLE} description={HOME.DESCRIPTION}>
   <Container>
-    <h2 class="animate">¡Hoolaa a todos!<span class="text-xl">👋🏻</span></h2>
+    <h2 class="animate font-light text-sm">¡Hoolaa a todos! 👋🏻</h2>
     <h4 class="animate font-semibold text-black dark:text-white">
       Mi nombre es Dante
     </h4>
@@ -56,37 +56,10 @@ const education = await Promise.all(
           <p class="animate">
             Soy un desarrollador backend apasionado por crear soluciones
             eficientes y escalables, empleando arquitecturas de software,
-            automatización y buenas prácticas, enfocado en resolver problemas
-            de la vida real.
+            automatización y buenas prácticas, enfocado en resolver problemas de
+            la vida real.
           </p>
         </article>
-      </section>
-
-      <section class="animate space-y-6">
-        <div class="flex flex-wrap gap-y-2 items-center justify-between">
-          <h5 class="font-semibold text-black dark:text-white">
-            Educación y Certificaciones
-          </h5>
-          <Link href="/education"> Ver más </Link>
-        </div>
-        <ul class="flex flex-col space-y-4">
-          {
-            education.map((entry) => (
-              <li>
-                <div class="text-sm opacity-75">
-                  {dateRange(entry.data.dateStart, entry.data.dateEnd)}
-                </div>
-                <div class="font-semibold text-black dark:text-white">
-                  {entry.data.institution}
-                </div>
-                <div class="text-sm opacity-75">{entry.data.degree}</div>
-                <article>
-                  <entry.Content />
-                </article>
-              </li>
-            ))
-          }
-        </ul>
       </section>
 
       <section class="animate space-y-6">
@@ -107,6 +80,33 @@ const education = await Promise.all(
                   {entry.data.company}
                 </div>
                 <div class="text-sm opacity-75">{entry.data.role}</div>
+                <article>
+                  <entry.Content />
+                </article>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+
+      <section class="animate space-y-6">
+        <div class="flex flex-wrap gap-y-2 items-center justify-between">
+          <h5 class="font-semibold text-black dark:text-white">
+            Educación y Certificaciones
+          </h5>
+          <Link href="/education"> Ver más </Link>
+        </div>
+        <ul class="flex flex-col space-y-4">
+          {
+            education.map((entry) => (
+              <li>
+                <div class="text-sm opacity-75">
+                  {dateRange(entry.data.dateStart, entry.data.dateEnd)}
+                </div>
+                <div class="font-semibold text-black dark:text-white">
+                  {entry.data.institution}
+                </div>
+                <div class="text-sm opacity-75">{entry.data.degree}</div>
                 <article>
                   <entry.Content />
                 </article>
