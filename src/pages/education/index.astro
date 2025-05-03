@@ -39,7 +39,7 @@ const certifications = await Promise.all(
           <ul class="flex flex-col space-y-4">
             {
               education.map((entry) => (
-                <li>
+                <li class="animate">
                   <div class="text-sm opacity-75">
                     {dateRange(entry.data.dateStart, entry.data.dateEnd)}
                   </div>
@@ -65,7 +65,7 @@ const certifications = await Promise.all(
           <ul class="flex flex-col space-y-4">
             {
               certifications.map((entry) => (
-                <li>
+                <li class="animate">
                   <div class="text-sm opacity-75">
                     {dateRange(entry.data.dateStart, entry.data.dateEnd)}
                   </div>
