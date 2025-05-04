@@ -35,6 +35,6 @@ Bot de música para Discord hecho en Python. Permite reproducir canciones desde 
 - FFmpeg
 - Docker / Docker Compose
 
-### ¿Para qué lo hice?
+### 📌 ¿Para qué lo hice?
 
 Desarrollado 100% desde cero para brindar una alternativa libre, manipulable y gratuita a los bots de música tradicionales.
