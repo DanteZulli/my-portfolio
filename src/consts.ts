@@ -3,9 +3,15 @@ import type { Site, Metadata, Socials } from "@types";
 export const SITE: Site = {
   NAME: "Dante Zulli",
   EMAIL: "dantezulli2004@gmail.com",
+  NUM_POSTS_ON_HOMEPAGE: 3,
   NUM_WORKS_ON_HOMEPAGE: 1,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
   NUM_EDUCATION_ON_HOMEPAGE: 1,
+};
+
+export const BLOG: Metadata = {
+  TITLE: "Blog",
+  DESCRIPTION: "Una colección de artículos sobre temas que me apasionan, y sobre mi vida como desarrollador.",
 };
 
 export const HOME: Metadata = {
