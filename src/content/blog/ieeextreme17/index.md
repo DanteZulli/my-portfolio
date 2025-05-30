@@ -18,11 +18,11 @@ No es mi primera vez redactando, pero si es la primera vez que escribo algo que 
 > Está todo redactado por mí, revisado (ponele) por mí, y publicado por mí, así que es muy probable que encuentren algún error, alguna falla en la redacción, o algún *typo* (sobretodo porque en invierno las manos se me congelan y el caloventor me da solo en las patas).\
 > Nuevamente, ténganme un poco de piedad, o no, va, yo que sé. Hagan lo que quieran
 
-### El Equipo
+## El Equipo
 
 ![Foto del Equipo](equipo.jpg)
 > Ariel, Dante (Yo) y Ramiro, en ese órden.\
-> PD: Sé que la calidad es paupérrima, pero todavía no pude encontrar la foto original.
+> PD: Sé que la calidad es paupérrima, pero todavía no pude encontrar las fotos originales.
 
 Voy a empezar esta breve sección sobre el equipo haciendo un análisis a raíz de su nombre, que (marcando tendencia para futuras competencias) es un chiste boludo nivel 1000 que nos causó gracia cuando uno lo dijo y así quedó.
 
@@ -40,7 +40,7 @@ Nunca nos pusimos a pensar si teníamos las capacidades para llevar a cabo el re
 Yo creo que fué el momento, las ganas de animarse, las ansias por participar, la emoción por lo nuevo. En este contexto, nada de lo antes mencionado importaba. \
 Pero pegó, más adelante nos dimos cuenta que sí importa estar preparados, y que no era joda una competencia de este calibre. Más que nada por la dificultad de los retos, y el nivel de exigencia personal que manejaba (y maneja a día de hoy) cada uno de nosotros.
 
-### Programación Competitiva? Sí. Presencial? No. Durante 24hs? Esperá, qué...?
+## Programación Competitiva? Sí. Presencial? No. Durante 24hs? Esperá, qué...?
 
 ![Escritorio con latas de RedBull](redbull.jpg)
 
@@ -56,7 +56,7 @@ El mayor desafío fue personal, y sí, se que parece una de esas huevadas que un
 Para alguien como yo, que tiene una exigencia altísima para consigo mismo (tanto que a veces es perjudicial), un evento de estas características podía llegar a convertirse en una trampa mortal. \
 El resolver algo se sentía como el deber, como un "así tiene que ser", y el fallar se convertía en un pecado imperdonable.
 
-### Palíndromos, mi némesis
+## Palíndromos, mi némesis
 
 ![Yo, sentado en mi escritorio](mi-escritorio.jpg)
 > Nótese la cantidad de latas de energizantes en mi escritorio, el mate, el desodorante y alguna magia más.
@@ -87,11 +87,9 @@ Manejar sus tiempos, sus descansos, saber escuchar lo que tu cuerpo te indica, y
 > Sin embargo, lo que sí sé es que antes me conocía mucho menos. Fue a raíz de mis errores, mis pisadas en falso, y mis momentos límite como este, que me "empecé a entender". \
 > Aprendí a la fuerza, y esa es la experiencia que quería compartir (con cualquiera que esté leyendo esto). 
 
-### Las hazañas del equipo, y otros recuerdos vagos
+## Las hazañas del equipo, y otros recuerdos vagos
 
 Voy a hacer un esfuerzo para que esta sección esté medianamente conectada párrafo a párrafo, aunque en realidad, va a auspiciar más de una lista de anécdotas, recuerdos y comentarios del evento que otra cosa.
-
----
 
 ### El equipo + 1
 ![El equipo +1](equipo2.jpg)
@@ -102,4 +100,46 @@ Justo dio la casualidad de que le tocó en el salón de al lado, en un piso dond
 Lo único que tengo para objetar es que teníamos la mesa perfecta; tres ThinkPads... y el loco cayó con una IdeaPad. Pero bueno, al menos era Lenovo, qué sé yo.
 
 ---
+
+### Rami llevó un limón para romper el hielo
+![Rami teniendo un limón](rami-limon.jpg)
+
+La competencia arrancaba la noche de un viernes y se extendía hasta el sábado a la misma hora.  \
+El primer evento antes de comenzar era una reunión entre todos los equipos para conocernos mejor, compartir un poco, hacer sociales, y lo más importante; comer. \
+Recuerdo que todos los integrantes de los demás equipos eran estudiantes del ITBA (obviamente) de distintas sedes del país. \
+Nosotros, en cambio, éramos dos estudiantes de la UNLa y un "panadero", como se presentaba Rami medio en chiste, para desviar un poco las preguntas sobre qué estudiabas o no en la universidad (y los prejuicios que venían con eso). 
+
+En ese contexto, éramos "un equipo más", incluso un escalón por debajo del resto, por lo que ya mencioné y por otros varios prejuicios: universidad pública vs privada, la carrera que elegías, o simplemente el hecho de estudiar o no.
+
+Pasada esa reunión, arrancó la competencia y nos sentamos a resolver. Iban tirando ejercicios uno tras otro; algunos los sacábamos, otros no, y así íbamos sumando puntos para el ranking. \
+Me acuerdo patente que, en un momento de la noche, largaron 3 ejercicios de golpe, y cada uno se quedó con uno para resolver por su cuenta.
+
+Rami agarró, por lejos, el más jodido de todos. Un enunciado que mezclaba lógica, manos de póker, y algoritmos para resolver las mejores combinaciones en el menor tiempo posible. \
+Para nosotros era chino básico. Ari no lo terminaba de entender, y yo en ese momento ni siquiera sabía jugar al póker (pensaba que era como un chinchón con más pasos), así que ese ejercicio tenía dueño desde el minuto cero.
+
+![Rami resolviendo en el pizarrón](rami-pizarron.jpg)
+
+Pasaban las horas, seguían cayendo ejercicios, y nosotros avanzábamos con otras tareas mientras Rami seguía completamente metido en ese mismo ejercicio que se había comprometivo a resolver hacía ya un buen rato. \
+En un momento (yo estaba sentado justo enfrente), lo escucho gritar de alegría y pegar un pequeño salto de emoción. \
+Tanta fue la emoción que le dió un para nada pequeño golpe a la mesa que bastó para desconectarme la máquina de la pared. (Como no tenía batería, se apagó al instante) \
+Pero no importaba. Lo había resuelto, solo, sin ayuda de nadie más que de él mismo. \
+Había logrado resolver ese ejercicio tan difícil que se había auto-asignado desde un principio.
+
+Cuando se nos ocurrió revisar el ranking para ver cuántos puntos había metido, estábamos en el top 100 **mundial**, entre más de 7200 equipos inscriptos. \
+Ahí me cayó la ficha: no era que Rami estaba trabado… es que *todo el mundo* lo estaba. Y él, con todo ese esfuerzo y esa dosis de esa magia que tiene (que jamás voy a terminar de entender), había sido de los pocos que lo logró resolver. \
+Tanto así, que posicionó nuestro equipo en lo más alto de la pirámide, después de haber pasado horas peleándola desde el medio... 
+
+Un rato después llegó la hora del descanso. Bien merecido, diría yo, sobre todo después de tantas horas de codear sin parar. Más aún para Rami, que se había roto la cabeza y nos hizo destacar con ese ejercicio. \
+Ahí, Cuando bajamos a tomar algo, nos dimos cuenta de que no habíamos sido los únicos en revisar el ranking para ver cómo veníamos. \
+Varios equipos empezaron a acercarse, reconociendo que habíamos sido de los pocos en resolver ese ejercicio. Querían saber cómo lo habíamos hecho, qué estrategia usamos, qué se nos había ocurrido. Ni lerdos ni perezosos. \
+Hasta hacía un rato, éramos nosotros los que teníamos que ir a hacer sociales, sólo para que nos ignoraran o nos corrieran sutilmente. Y de golpe, en cuestión de minutos, pasamos a ser el centro de atención. Todos querían hablar con nosotros.\
+Habíamos movido el piso de lugar. Y se notó.
+
+Obviamente, en medio de tantas preguntas e indagatorias a Rami, yo intenté persuadirlo para que no ande regalando así nomás la fórmula del éxito. Algo que tanto le costó conseguir, que conformaba un logro no solo para él, sino que nos posicionaba a nosotros como el mejor equipo local, y uno de los mejores equipos mundiales. 
+
+No hubo caso.
+
+Terminó compartiendo todo, charlando, explicando, abriéndose con los demás como si nada. Sin esperar nada a cambio. \
+Y la verdad...  no lo puedo culpar. Es mi mejor amigo, y lo respeto y valoro justamente por eso. Por ser cómo es, una buena persona. \
+A veces medio boludo, pero buena persona al fín.
 
