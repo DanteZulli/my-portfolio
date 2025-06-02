@@ -10,7 +10,7 @@ Les doy la bienvenida a este, el primer post en mi blog, que trata sobre mi prim
 No es mi primera vez redactando, pero si es la primera vez que escribo algo que no sea meramente documentación técnica, así que ténganme un poco de piedad.
 
 > Aclaración importante: \
-> Si bien esta entrada está datada del 28 de Octubre de 2023, estoy redactando esto dos años después, 29 de Mayo del 2025, que fue cuando decidí empezar a plasmar mis experiencias pasadas en "papel", y compartirlas con el mundo (si es que acaso alguien está leyendo esto). \
+> Si bien esta entrada está datada del 28 de Octubre de 2023, estoy redactando esto dos años después, Mayo del 2025, que fue cuando decidí empezar a plasmar mis experiencias pasadas en "papel", y compartirlas con el mundo (si es que acaso alguien está leyendo esto). \
 > Si bien mi recuerdo puede estar difuso, voy a tratar de dejar expresado mi sentimiento tal  cuál como fue, para intentar no perderlo del todo (Ese es el verdadero motivo de este blog).
 
 > Otra aclaración importante:\
@@ -98,8 +98,6 @@ Quiero hacer una mención especial al cuarto integrante *"no integrante"* de nue
 Se había anotado con un amigo, pero el amigo se bajó a último momento, y el flaco se presentó solo, como un campeón.\
 Justo dio la casualidad de que le tocó en el salón de al lado, en un piso donde estábamos solo nosotros. Y bueno, obvio que lo sumamos, esas cosas pasan. \
 Lo único que tengo para objetar es que teníamos la mesa perfecta; tres ThinkPads... y el loco cayó con una IdeaPad. Pero bueno, al menos era Lenovo, qué sé yo.
-
----
 
 ### Rami llevó un limón para romper el hielo
 ![Rami teniendo un limón](rami-limon.jpg)
