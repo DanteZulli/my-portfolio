@@ -2,7 +2,7 @@
 title: "IEEEXtreme 17 – Competencia de programación (24h)"
 description: 'Mi primer experiencia con la programación competitiva en equipos'
 date: "Oct 28 2023"
-draft: true
+draft: false
 ---
 
 Buenas! Como andan? Todo bien? \
@@ -125,7 +125,7 @@ Tanta fue la emoción que le dió un para nada pequeño golpe a la mesa que bast
 Pero no importaba. Lo había resuelto, solo, sin ayuda de nadie más que de él mismo. \
 Había logrado resolver ese ejercicio tan difícil que se había auto-asignado desde un principio.
 
-Cuando se nos ocurrió revisar el ranking para ver cuántos puntos había metido, estábamos en el top 100 **mundial**, entre más de 7200 equipos inscriptos. \
+Cuando se nos ocurrió revisar el ranking para ver cuántos puntos había metido, estábamos en el top 100 **mundial**, entre más de 7000 equipos inscriptos. \
 Ahí me cayó la ficha: no era que Rami estaba trabado… es que *todo el mundo* lo estaba. Y él, con todo ese esfuerzo y esa dosis de esa magia que tiene (que jamás voy a terminar de entender), había sido de los pocos que lo logró resolver. \
 Tanto así, que posicionó nuestro equipo en lo más alto de la pirámide, después de haber pasado horas peleándola desde el medio... 
 
@@ -143,3 +143,19 @@ Terminó compartiendo todo, charlando, explicando, abriéndose con los demás co
 Y la verdad...  no lo puedo culpar. Es mi mejor amigo, y lo respeto y valoro justamente por eso. Por ser cómo es, una buena persona. \
 A veces medio boludo, pero buena persona al fín.
 
+### No tomen tanta Red Bull
+
+![Una foto de todos los participantes](todos.jpg)
+
+En definitiva, el IEEEXtreme fue un sacudón emocional, físico y mental que me dejó recuerdos imborrables, amistades reforzadas y algunas lecciones que todavía sigo digiriendo. \
+No ganamos ningún premio, ni salimos primeros en nada, pero nos llevamos lo más valioso: la experiencia (y muchas latas de Red Bull).
+
+¿Que cómo nos fue? \
+Terminamos **1264° a nivel mundial**, entre más de 7000 equipos registrados, y **101° en Latinoamérica** sobre un total 270, lo cual no es poca cosa considerando todo lo que hubo detrás. \
+En el ranking nacional quedamos **12° de 16 equipos**, lo cuál significa que todavía tenemos mucho camino por delante.
+
+Aunque en el artículo no lo mencioné tanto (hasta ahora), Ari también fue parte clave de este equipo. Se rompió el lomo como nosotros, se gastó la pila mental y tiró una banda de código. Lástima que programó todo en JavaScript… pero bueno, nadie es perfecto.
+
+No sé si volvería a hacerlo exactamente igual, pero tampoco cambiaría nada de lo que pasó. \
+Gracias por leer hasta acá (si es que alguien lo hizo). Si no, no importa... igual necesitaba escribirlo porque después me lo olvido. \
+Nos vemos en la próxima!
