@@ -15,7 +15,7 @@ export const BLOG: Metadata = {
 };
 
 export const HOME: Metadata = {
-  TITLE: "Menú Principal",
+  TITLE: "Portfolio",
   DESCRIPTION: "Hola! Soy Dante Zulli. Sean bienvenidos a mi portfolio.",
 };
 
