@@ -1,7 +1,7 @@
 import type { Site, Metadata, Socials } from "@types";
 
 export const SITE: Site = {
-  NAME: "Portfolio",
+  NAME: "Dante Zulli",
   EMAIL: "dantezulli2004@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 3,
   NUM_WORKS_ON_HOMEPAGE: 1,
@@ -15,7 +15,7 @@ export const BLOG: Metadata = {
 };
 
 export const HOME: Metadata = {
-  TITLE: "Dante Zulli",
+  TITLE: "Home",
   DESCRIPTION: "Hola! Soy Dante Zulli. Sean bienvenidos a mi portfolio.",
 };
 
