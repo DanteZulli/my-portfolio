@@ -15,7 +15,7 @@ export const BLOG: Metadata = {
 };
 
 export const HOME: Metadata = {
-  TITLE: "Portfolio",
+  TITLE: "Dante Zulli",
   DESCRIPTION: "Hola! Soy Dante Zulli. Sean bienvenidos a mi portfolio.",
 };
 
