@@ -21,7 +21,6 @@ Desarrollé la landing oficial del evento de futsal “Copa de Reyes”, realiza
 - Despliegue dockerizado y hosting con alta disponibilidad (99.9%)
 
 ### 🖼️ Capturas
-(Con datos de prueba)
 
 - Inicio - Hero Section
 ![Captura de Pantalla - Inicio - Hero Section](image.png)
