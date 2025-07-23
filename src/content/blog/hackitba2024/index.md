@@ -2,13 +2,23 @@
 title: "HackITBA 2024"
 description: 'El nacimiento, la vida, y la muerte de "Jano"'
 date: "Mar 30 2024"
-draft: true
+draft: false
 ---
 
-Durante la HackITBA 2024 participé junto a mis compañeros en el desarrollo de Jano, una aplicación que creamos en solo 36 horas para el track de Salud y Bienestar. Nuestro objetivo fue claro desde el inicio: abordar la salud mental de forma integral, combinando herramientas tecnológicas con un enfoque humano.
+Cómo prácticamente el 99.9% de los seres humanos, mi trayectoria se encuentra formada sobre una amplia y basta colección de fracasos, tropiezos y caidas que me han ayudado (algunos más que otros) a llegar a ser quién soy hoy. \
+Este es capaz el que yo considero el más rotundo fracaso dentro de todos esos rotundos fracasos que antes les comentaba, que me abrió mucho la cabeza cómo desarrollador, y me hizo darme cuenta de que definir el alcance y los lineamientos de un proyecto es aún más importante que el proyecto mismo.
 
-Nos enfocamos en cuatro pilares fundamentales: alimentación, sueño, hábitos saludables y conexión social. La app incluía trackers personalizados, recomendaciones de rutinas, contenido curado (lecturas, música) y un foro anónimo donde los usuarios podían compartir experiencias y apoyarse mutuamente.
+Si leyeron mi anterior (y primer) blogpost, se habrán podido dar cuenta de que soy una persona a la que siempre le gusta complicarse un poquito más la vida. \
+Adoro los desafíos, adoro programar, y adoro las competencias que me llevan al límite (haciéndome odiar todo lo anterior xD). \
+Soy de esos a los que las **IPM** (**I**deas **p**or **M**inuto, sí, me lo acabé de inventar) le llueven. Eso NO quiere decir que todas sean buenas, o que sean sólidas, ni mucho menos. \
+A veces (el 95% de las veces) sólo son una mezcla tipo _cocktail_ entre ansiedad, falta de sueño y café, mucho pero mucho café.\
+El verdadero problema es aprender a diferenciarlas, aprender a separar las ideas buenas, de las malas, las potables, de las no potables, las viables de las psicóticamente descabelladas.\
+Y el verdadero segundo problema, es darme cuenta a tiempo.
 
-Uno de los componentes más potentes fue el asistente virtual, desarrollado alrededor de un modelo de lenguaje (LLM) que entrenamos y fine-tuneamos específicamente para esta solución. Se trataba de un modelo ligero, autoalojado, integrado directamente con la aplicación, orientado a brindar contención emocional inmediata. Respondía de forma contextual en momentos críticos, apoyado en una base de datos con líneas de ayuda y recursos profesionales, además de una lógica de detección de señales para sugerir asistencia externa cuando era necesario. Fue una de las piezas clave del proyecto y representó un gran desafío tanto técnico como personal.
+De eso se va a tratar este post, de cómo arrastré a mis amigos a una hackatón de 48hs con un cúmulo propio de ideas poco potables, que aún así fuí capaz de transmitirle a mis amigos, por lo visto con la suficiente convicción cómo para hundirnos a todos en el mismo barco.
 
-Me desempeñé como full stack developer, participando en el desarrollo del frontend con React y Tailwind, del backend con Node.js y Docker, y en la integración del LLM junto con APIs externas. Fue una experiencia intensa, de mucho aprendizaje, donde cada integrante del equipo dio lo mejor para construir una solución tecnológica con verdadero impacto humano.
+
+
+#### [ESTE BLOGPOST ESTÁ EN PROGRESO]
+**Sí estás leyendo esto, es porque este artículo/post todavía no está terminado, pero está "en proceso de"
+Lo voy redactando y subiendo para no perder los cambios, a modo de _"draft"_ y a futuro puede que sea actualizado, modificado, borrado, y algún otro terminado en -ado.**
