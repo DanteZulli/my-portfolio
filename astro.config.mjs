@@ -4,6 +4,6 @@ import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  site: "https://portfolio-dante-zulli.vercel.app",
+  site: "https://dantezulli.ar",
   integrations: [mdx(), sitemap(), tailwind()],
 });
