@@ -16,7 +16,7 @@ Antes de avanzar, voy a dar el mismo aviso que en mi artículo pasado y (espero)
 
 > PD: Tenía pensado agregarle una de las badges de [Not By AI](https://notbyai.fyi/) hasta que ví que tenían pricing xD
 
-> PD 2: Cómo es posible que todo hoy en día sea una subscripción loco?
+> PD 2: Cómo es posible que hoy en día todo sea una subscripción loco?
 
 Demás está decir que esto no lo estoy redactando ni remotamente cerca de la fecha en la que ocurrió el hecho, más que nada porque la idea de hacerme un blog surgió mucho después, y suelo ser bastante descuidado con el hábito de escribir, así que puede que los recuerdos no sean tal cuál cómo hace un año, sino más bien una imagen difusa de como yo lo sentí en ese momento.
 
@@ -28,13 +28,13 @@ Demás está decir que esto no lo estoy redactando ni remotamente cerca de la fe
 
 Antes de presentar al equipo, con su permiso, voy a hacer un poco de Katarsis; No tenemos una bendita foto decente de toda competición viejo! \
 A los encargados de las fotos se les ocurrió la genialísima idea de ir sacando piso por piso con el pasar de los días, entonces todos los que estabamos en el segundo piso (como ya es costumbre, siempre al final) salimos completamente matados, porque llegaron a **24hs** de arrancada la competencia, por la mañana del día de entrega! A quién se le ocurre? \
-Ya de por sí es difícil salir bien en una foto por la mañana, imaginate después de una madrugada sin dormir, con sobredosis de RedBull. Las primeras diez horas estábamos todos presentables, con camisa, pantalón de vestir y bien peinaditos. Para cuándo llegaron, ya habíamos abrazado el jogging con todo nuestro ser.
+Ya de por sí es difícil salir bien en una foto por la mañana, imaginate después de una madrugada sin dormir y con sobredosis de RedBull. Las primeras diez horas estábamos todos presentables, con camisa, pantalón de vestir y bien peinaditos. Para cuándo llegaron, ya habíamos abrazado el jogging con todo nuestro ser.
 
 Ahora sí, vamos a presentar al equipo...\
-Ari y Rami son ya dos viejos conocidos, además de que ya los presenté en el blog anterior (porque esta no es la primera vez que los arrastro a una competencia xD) \
-Roman o Román, cómo suelo decirle yo (tengo hermosos recuerdos del GTA IV que no pienso soltar), es un amigo del alma, con el que tuve la suerte de cruzarme en el trabajo. Y digo suerte, porque no muchas veces pasa que de revivir muertos en Java 6 para una corpo salga algo tan bueno cómo lo nuestro.
+Ari y Rami son ya dos viejos conocidos, además de que ya los presenté en el post anterior (porque esta no es la primera vez que los arrastro a una competencia xD) \
+Román o Roman, cómo suelo decirle yo (tengo hermosos recuerdos del GTA IV que no pienso soltar), es un amigo del alma, con el que tuve la suerte de cruzarme en el trabajo. Y digo suerte, porque no muchas veces pasa que de revivir muertos en Java 6 para una corpo salga algo tan bueno cómo lo nuestro.
 
-Apenas habiéndonos conocido, me lancé a invitarlo a este evento porque me sentía cómodo, y se ve que el sentimiento fué recíproco porque aceptó sin dudar, corrió su jornada laboral una hora para llegar, y puso casa para reunirnos antes ahí para después ir a la competencia. Un crack total.
+Apenas habiéndonos conocido, me lancé a invitarlo a este evento porque me sentía cómodo, y se ve que el sentimiento fué recíproco porque aceptó sin dudar, corrió su jornada laboral una hora para llegar, y puso casa para reunirnos antes de ir a la competencia. Un crack total.
 
 ## Premoniciones
 
@@ -57,7 +57,7 @@ Irónicamente, es justo de lo que pecamos; falta de atención y consideración, 
 ## La Temática
 
 La Hackatón se dividía en dos categorías o "tracks" cómo así lo llamaban. \
-Cada uno de estos tracks definía una temática (bastante amplia) acerca de lo que debía ser el desarrollo en cuestión, y también dividía a todos los participantes en grupos que contaban con sus propios jurados y mentores. \
+Cada uno de estos tracks definía una temática (bastante amplia) acerca de lo que debía ser el proyecto en cuestión, y también dividía a todos los participantes en grupos que contaban con sus propios jurados y mentores. \
 Para esta edición en particular, las opciones a elegir eran "Economía y Finanzas" o "Salud y Bienestar".
 
 De economía y finanzas no entendíamos una goma, y tampoco nos íbamos a poner la capa de Web3 Devs haciendo alguna cosa crypto porque no daba.\
@@ -65,10 +65,11 @@ Por el otro lado, de salud y bienestar tampoco teníamos idea, pero la podíamos
 
 Si bien las reglas indicaban que no se podía llevar nada pensado, ni desarrollado, y que todo tenía que surgir en la competencia, los tracks fueron publicados en el Instagram unas semanas antes de arrancar, lo cuál nos daba tiempo más que de sobra para intentar formular alguna idea potable. Pero no, eso no formaba parte de nuestra "escencia". 
 
-Para nosotros la gracia era "verdaderamente" participar de la Hackatón, craneando todo allá, formulando las ideas y desarrollando en el momento. Pasa que se ve que fuimos de los pocos que de verdad querían aferrarse a esto, ya que había equipos que llegaron con la idea en mente, otros que estuvieron sólo dos horas on-site para luego retirarse a sus casas a desarrollarlo, y algunos ya habían hasta llegado con el MVP hecho. \
+Para nosotros la gracia era "verdaderamente" participar de la Hackatón, craneando todo allá, formulando las ideas y desarrollando en el momento. Pasa que se ve que fuimos de los pocos que de verdad querían aferrarse a esto, ya que había equipos que llegaron con la idea en mente, otros que estuvieron sólo dos horas on-site para luego retirarse a sus casas a desarrollarlo, y algunos hasta habían llegado con el MVP hecho.
+
 Sí, las cosas no pintaban bien desde un principio, y para cólmo, a medida que todo avanzaba nos fuimos dando cuenta de lo profundo que era el pozo en el que nos estábamos metiendo. 
 
-> PD: Acá iba a hacer una referencia al pozo de Mortal Kombat 4 de la PSX, pero la verdad que después de pensarlo por un buen rato, me dí cuenta de que no había mucha vuelta que darle al chiste. Cómo de verdad se sintió cómo estar cayendo en un pozo profundo que pareciera no tener fin, acá les dejo una imagen de referencia:  
+> PD: Acá iba a hacer una referencia al pozo de Mortal Kombat 4 de la PSX, pero la verdad que después de pensarlo por un buen rato, me dí cuenta de que no había mucha vuelta que darle al chiste. De verdad se sintió cómo estar cayendo en un pozo profundo que pareciera no tener fin, acá les dejo una imagen de referencia:  
 
 ![Imagen del equipo en estilo Pixel Art, cayendo por un pozo cómo el de MK4](chatgpt-pozo-mk4.png)
 
@@ -76,7 +77,7 @@ Sí, las cosas no pintaban bien desde un principio, y para cólmo, a medida que 
 
 ## El Nacimiento de Jano
 
-Empujados por la temática, con nuestro equipo decidimos que queríamos hacer "algo" relacionado a la salud mental, y digo algo entre comillas porque en realidad quisimos hacer *todo*. No fue brainstorming, porque no llegamos a desarrollar prácticamente ninguna de todas las ideas que fuimos tirando sobre el pizarrón, así que en verdad no sé cómo llamar a este "proceso creativo no-creativo". \
+Empujados por la temática, con nuestro equipo decidimos que queríamos hacer "algo" relacionado a la salud mental, y digo "algo" entre comillas porque en realidad quisimos hacer *todo*. No fue brainstorming, porque no llegamos a desarrollar prácticamente ninguna de todas las ideas que fuimos tirando sobre el pizarrón, así que en verdad no sé cómo llamar a este "proceso creativo no-creativo". \
 Recomendaciones de salud, de alimentación, música para calmar y alejar las malas vibras, instructor de técnicas de respiración, chat anónimo en tiempo real, foros, LLM's, llamadas ante urgencias, recomendación de otras apps y no me acuerdo ya cuántas otras cosas más se nos cruzaron por la mente al momento de dar pie al proyecto. Sólo se que tiramos todo eso en una gran olla, le pusimos un toque de salsita, y rogamos con que sea el mejor guiso por 5 pesos jamás inventado. \
 Y bueno, nos salió... esto:
 
@@ -92,11 +93,35 @@ Lo bueno de todo esto, es que el objetivo estaba claro: hacer y entregar "algo"
 
 ### Las Tecnologías
 
-Voy a hacer una pequeña pausa en esta sección para hablarles un poco acerca de las tecnologías que elegimos para desarrollar este proyecto. \ La interfaz se planteó en un principio con React Native, pero cómo ninguno de nosotros sabía React, ni mucho menos React Native, decidimos bajar 1000 escalones y hacer el proyecto en React con el ancho fijo de pixeles para que "parezca un celu" (Las *MediaQueries* eran cosa de pros). Seguido a esto, un backend todo animal en Node.js para "presentar algunas cosas", obviamente todo esto dockerizado, cómo no, y con algunas claves hardcodeadas por aquí y por allá. Después uno se pregunta cómo algo puede quedar así de muerto? NACIÓ muerto querido Dante.
+Voy a hacer una pequeña pausa en esta sección para hablarles un poco acerca de las tecnologías que elegimos para desarrollar este proyecto; La interfaz se planteó en un principio con React Native, pero cómo ninguno de nosotros sabía nada acerca de React Native, decidimos bajar 1000 escalones y hacer el proyecto en React con el ancho fijo de pixeles para que "parezca un celu" (Las *MediaQueries* eran sobreingeniería se ve). Seguido a esto, un backend todo animal en Node.js para "presentar algunas cosas", obviamente todo esto dockerizado, cómo no, y con algunas claves hardcodeadas por aquí y por allá, cómo Dios manda. \
+Después uno se pregunta; cómo un proyecto puede quedar así de muerto? \
+NACIÓ muerto.
 
-> Nota mental 1: No programar en React Native \
-> Nota mental 2 (Unos años después): No programar en Flutter \
-> Nota mental 3 (Conclusión ahora que redacto esto): No hacer mobile.
+> Recomendación 1: No programen en React Native \
+> Recomendación 2: Ni en Flutter \
+> Recomendación 3: Directamente no hagan mobile.
 
 ## La Vida de Jano
+
+Nosotros ya lo sabíamos, algún tipo de división de tareas teníamos que hacer, porque si bien 48hs puede parecer mucho, entre dormir (algo) y comer (poco) el tiempo se pasa volando. \
+A grandes rasgos, nos dividimos "funcionalmente" (aunque al final nada de esto funcionó) de la siguiente manera:
+- Ari se encargaba del layout y diseño en general, porque era el que más clara la tenía con React. 
+- Roman tenía cómo desafío aprender a usar algo que no sea Java 8 mientras acompañaba a Ari en el desarrollo de la App. 
+- Rami por otro lado, iba dando ideas y preparando el backend, además de todo lo que respectaba a la dockerización del proyecto. 
+  
+Y yo, bueno, yo hice desastres...
+
+Para darles un poco más de contexto, en ese punto de 2024, la IA recién estaba empezando a "florecer". El único proveedor disponible que te brindaba una API Key *buena bonita y barata* era **OpenAI** con **ChatGPT**, **Claude** era un gusto de la realiza, y Google seguía viendo que hacer para robarle más datos a sus usuarios, mientras que acababa de presentar sus modelos ligeros Gemma (lejos todavía de clavarte Gemini en cada teléfono existente en la faz de la tierra). \
+Los conceptos relacionados a los LLM's como RAG, Fine-Tuning y Self Hosting estaban todavía en sus fases tempranas de desarrollo. Si bien Hugginface alojaba algunas propuestas interesantes, no existía un conocimiento formado cómo tal en la materia. 
+Todavía no existían los modelos (mal llamados) "pensantes", no había nacido el concepto de "prompt engineering" y los perfiles de LinkedIn todavía se redactaban y revisaban a mano. Los OCR de CV's no existían y los vende cursos de N8N seguían robando con NFT's y otra guevadas más. \
+
+Yo considero que en este punto, estas tecnologías estaban en su mejor fase, lo que yo llamo la fase de "exploración". Todavía no había ningún producto en particular, por ende pocas empresas metían plata en esto, y nadie daba grandes pasos o realizaba apuestas en esto porque todavía era arriesgado. La gobernanza de los datos todavía no era una preocupación, y el monopolio del conocimiento lo llevaban los usuarios, que tenían en este punto más herramientas que valían la pena explorar. \
+No digo que hoy en día no sea así, es más, ahora existen miles de millones de formas de hacer lo mismo que antes se hacía, además de que hay facilitadores cómo LMStudio, Alpaca, Fabric, etc. Sólo digo que antes, no era un mercado, era una tecnología más, y en mi opinión, era más divertido que ahora. Antes era una herramienta, ahora es un producto que te obligan a comprar, o sino, no sos "compliance" con la industria del desarrollo de software actual.
+
+Perdón, me fuí de tema... sigamos.
+
+Yo, cómo ser humano proactivo y *"fanático de meter la mano en dónde no debe sin miedo a perder el brazo"* que soy, llevé la propuesta de encargarnos de modificar nuestro propio modelo para esta aplicación, enfocado específicamente en "salud mental" y "apoyo psicológico". \
+Si bien hoy en día me considero completamente conocedor del tema, y detractor absoluto de que estas tecnologías sean aplicadas con ese propósito, en su momento me pareció que era algo que valía la pena explorar, y para mí estas competencias son el lugar indicado para hacerlo, ya que es un escenario "simil-real" (con demanda, objetivos, deadlines, etc..) que te ayuda a encontrarle un propósito, camino, y razón de ser a la excusa de aprender nuevas tecnologías.
+
+> PD: Entiendanmé, para ese momento programaba sólo en Java 8, necesitaba una bocanada de aire fresco xD
 
