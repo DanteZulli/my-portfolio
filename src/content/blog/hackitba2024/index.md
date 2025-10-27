@@ -2,7 +2,7 @@
 title: "HackITBA 2024"
 description: 'El nacimiento, la vida, y la muerte de "Jano"'
 date: "Mar 30 2024"
-draft: true
+draft: false
 ---
 
 Buenas! Cómo andan? Todo bien? Yo por mi parte fenomenal. \
@@ -106,22 +106,67 @@ NACIÓ muerto.
 Nosotros ya lo sabíamos, algún tipo de división de tareas teníamos que hacer, porque si bien 48hs puede parecer mucho, entre dormir (algo) y comer (poco) el tiempo se pasa volando. \
 A grandes rasgos, nos dividimos "funcionalmente" (aunque al final nada de esto funcionó) de la siguiente manera:
 - Ari se encargaba del layout y diseño en general, porque era el que más clara la tenía con React. 
-- Roman tenía cómo desafío aprender a usar algo que no sea Java 8 mientras acompañaba a Ari en el desarrollo de la App. 
+- Roman tenía cómo desafío aprender a usar algo que no sea Java 8 en SPS 4 mientras acompañaba a Ari en el desarrollo de la App. 
 - Rami por otro lado, iba dando ideas y preparando el backend, además de todo lo que respectaba a la dockerización del proyecto. 
   
 Y yo, bueno, yo hice desastres...
 
-Para darles un poco más de contexto, en ese punto de 2024, la IA recién estaba empezando a "florecer". El único proveedor disponible que te brindaba una API Key *buena bonita y barata* era **OpenAI** con **ChatGPT**, **Claude** era un gusto de la realiza, y Google seguía viendo que hacer para robarle más datos a sus usuarios, mientras que acababa de presentar sus modelos ligeros Gemma (lejos todavía de clavarte Gemini en cada teléfono existente en la faz de la tierra). \
-Los conceptos relacionados a los LLM's como RAG, Fine-Tuning y Self Hosting estaban todavía en sus fases tempranas de desarrollo. Si bien Hugginface alojaba algunas propuestas interesantes, no existía un conocimiento formado cómo tal en la materia. 
-Todavía no existían los modelos (mal llamados) "pensantes", no había nacido el concepto de "prompt engineering" y los perfiles de LinkedIn todavía se redactaban y revisaban a mano. Los OCR de CV's no existían y los vende cursos de N8N seguían robando con NFT's y otra guevadas más. \
+Para darles un poco más de contexto, en ese punto de 2024, la IA recién estaba empezando a "florecer". El único proveedor disponible que te brindaba una API Key *buena bonita y barata* era **OpenAI** con **ChatGPT**, **Claude** era un gusto de la realeza, y Google seguía viendo que hacer para robarle más datos a sus usuarios, mientras que acababa de presentar sus modelos ligeros Gemma (lejos todavía de clavarte Gemini en cada teléfono existente en la faz de la tierra). \
+Los conceptos relacionados a los LLM's como RAG, Fine-Tuning y MCP estaban todavía en sus fases tempranas de desarrollo. Si bien Hugginface alojaba algunas propuestas interesantes, no existía un conocimiento formado cómo tal en la materia. 
+Todavía no existían los modelos (mal llamados) "pensantes", no había nacido el concepto de "prompt engineering" y los perfiles de LinkedIn todavía se redactaban y revisaban a mano. Los OCR de CV's no existían y los vende cursos de N8N seguían robando con NFT's y otra huevadas más.
 
-Yo considero que en este punto, estas tecnologías estaban en su mejor fase, lo que yo llamo la fase de "exploración". Todavía no había ningún producto en particular, por ende pocas empresas metían plata en esto, y nadie daba grandes pasos o realizaba apuestas en esto porque todavía era arriesgado. La gobernanza de los datos todavía no era una preocupación, y el monopolio del conocimiento lo llevaban los usuarios, que tenían en este punto más herramientas que valían la pena explorar. \
-No digo que hoy en día no sea así, es más, ahora existen miles de millones de formas de hacer lo mismo que antes se hacía, además de que hay facilitadores cómo LMStudio, Alpaca, Fabric, etc. Sólo digo que antes, no era un mercado, era una tecnología más, y en mi opinión, era más divertido que ahora. Antes era una herramienta, ahora es un producto que te obligan a comprar, o sino, no sos "compliance" con la industria del desarrollo de software actual.
+Yo considero que en este punto estas tecnologías estaban en su mejor fase, lo que yo llamo la fase de "exploración". Todavía no había ningún producto en particular demasiado consolidado, por ende pocas empresas metían plata, y nadie daba grandes pasos o realizaba apuestas en esto porque todavía era arriesgado. La gobernanza de los datos todavía no era una preocupación, y el monopolio del conocimiento lo llevaban los usuarios, que tenían en este punto más herramientas que valía la pena explorar. \
+No digo que hoy en día no sea así, es más, ahora existen miles de millones de formas de hacer lo mismo que antes se hacía, además de que hay facilitadores cómo LMStudio, Alpaca, Fabric, etc. Sólo digo que antes, no era un mercado, era una tecnología más, y en mi opinión, era más interesante (y divertido) que ahora. Antes era una herramienta, ahora es un producto que te obligan a comprar, o sino, no sos "compliance" con la industria del desarrollo de software actual.
 
 Perdón, me fuí de tema... sigamos.
 
 Yo, cómo ser humano proactivo y *"fanático de meter la mano en dónde no debe sin miedo a perder el brazo"* que soy, llevé la propuesta de encargarnos de modificar nuestro propio modelo para esta aplicación, enfocado específicamente en "salud mental" y "apoyo psicológico". \
-Si bien hoy en día me considero completamente conocedor del tema, y detractor absoluto de que estas tecnologías sean aplicadas con ese propósito, en su momento me pareció que era algo que valía la pena explorar, y para mí estas competencias son el lugar indicado para hacerlo, ya que es un escenario "simil-real" (con demanda, objetivos, deadlines, etc..) que te ayuda a encontrarle un propósito, camino, y razón de ser a la excusa de aprender nuevas tecnologías.
+Si bien hoy en día me considero conocedor del tema, y detractor absoluto de que estas tecnologías sean aplicadas con ese propósito, en su momento me pareció que era algo que valía la pena explorar, y para mí estas competencias son el lugar indicado para hacerlo, ya que es un escenario "simil-real" (con demanda, objetivos, deadlines, etc..) que te ayuda a encontrarle un propósito, camino, y razón de ser a la excusa de aprender nuevas tecnologías.
 
-> PD: Entiendanmé, para ese momento programaba sólo en Java 8, necesitaba una bocanada de aire fresco xD
+> PD: Entiendanmé, para ese el 80% de lo que programaba era en Java 8, y el otro 20% en Angular/Vue.js, necesitaba una bocanada de aire fresco xD
+
+### Los recursos son limitados (En nuestro caso inexistentes)
+
+El plan era simple; necesitábamos afinar un modelo sencillo, ligero y que sea capaz de correr en una Thinkpad X230 con un I5 de 2da y 8GB de Ram (el Dante del pasado sí que era un soñador).
+
+Si bien para ese entonces ya había disponibles varios modelos pre-entrenados con las mismas intenciones que las nuestras, estos tenían una cuantización de 7 billones de parámetros cómo MÍNIMO, que no es mucho, pero no aplica para una máquina de tan pocos recursos, la cosa se complicaba más, y tuvimos que ajustar sobre la marcha.
+
+Primero que nada, comencé con drafts y pruebas en local de distintos modelos pequeños y ajustando algunos conceptos básicos. La idea era que el modelo tenía que limitarse a recorrer material pre-aprendido que nosotros le brindáramos, dar alguna que otra guía por la aplicación y sus conceptos, responderle al usuario de forma amable, y por último pero no menos importante, encargarse de redirigir o disparar sugerencias de llamada a líneas de ayuda en caso de detectar que se cruzaban ciertos umbrales de riesgo. \
+
+El modelo en cuestión que tomamos fué el (para entonces) nuevo modelo de Google, Gemma 2B, malo, feo y barato xD\
+No sólo no logramos nada con estos modelos, sino que los resultados fueron contraproducentes (la próxima sección habla un poco de eso), y al final, terminamos "drafteando" un simil chatbot concatendando llamadas a la API de Open AI y agregándole contexto hardcodeado el payload.
+
+![Notas de Jano](notas-1.jpeg)
+
+> Estas son las únicas notas que encontré al respecto... Lo único prolijo es la llamita :P
+
+
+### Meras máquinas de autocompletado
+
+No quiero ponerme demasiado técnico en esta parte porque tengo pensado escribir más al respecto en un futuro cercano, pero quiero que se queden con el siguiente concepto.
+
+Los modelos de inteligencia artificial generativa no son más que máquinas de autocompletado que: 
+
+1. Van a responderte siempre
+2. Van a sonar convincentes
+3. Dependen de la cantidad de datos que los conforman.
+
+Cuánto menos datos tenga un modelo, más propenso va a ser a concatenar una respuesta no acorde a un input dado (ya que son sistemas probabilísticos, no determinísticos), y dado que sus datos son "todo internet" (aunque no se sabe que parte se saca, ni de dónde se recorta) esto representaba un riesgo en sí.
+
+En nuestro caso nos pasó, que si le escribías al modelo con un tono deprimente, el modelo "se deprimía" con vos, y te incitaba a seguir con tu sufrimiento, te relataba que el había vivido una historia similar (probablemente tomando relatos de vida de alguien más), y validaba intenciones suicidas y autolesivas.
+
+No pienso hacer chistes en esta parte, ya que es un tema que tuvo [consecuencias reales](https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html) al año siguiente de la competencia, y desde entonces no paró de empeorar. Pienso que se está visibilizando poco el verdadero riesgo que tiene sobrevalorar estas tecnologías, y considerarlas "magia" cuándo en realidad no lo son.
+
+Por si les interesa profundizar, les dejo un [artículo](https://thebullshitmachines.com/) lleno de diferentes estudios y análisis, y un [post](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html) recopilando esta y otras atrosidades más. La idea no es asustar ni acusar a nadie, sólo busco generar conciencia y fomentar la lectura crítica del tema.
+
+Si a futuro escribo algo al respecto, también lo voy a adjuntar acá.
+
+> Pido disculpas si esto rompe un poco el flujo del blogpost, y si por alguna razón les parece que estoy dándo poca información o concientizando poco al respecto. Me parece que valía la pena hacer una mención a estos temas, mientras preparo un análisis más informado de los mismos.
+
+### Drag & Drop Mobile
+
+En un momento, estábamos tan quemados de tanto desorden que cada uno estaba haciendo lo que podía (osea, cualquier cosa), y para graficar ese estado de demencia, me quedó la postal de lo que estaba codeando Roman:
+
+En un determinado momento, me acerqué a su mesa para ver cómo iba, y si necesitaba una mano. Me dijo que estaba trabado desarrollando la función de "Drag & Drop" de la aplicación. Intentamos solucionarlo en un principio, pero la verdad es que tardamos demasiado en caer que estabamos agregándole función de arrastrar archivos a una aplicación completamente MÓVIL.\
+La cúspide del "gagaismo" (Y no viene de Lady Gaga, sinó de estar completamente Gagá xD)
 
