@@ -1,5 +1,5 @@
 ---
-title: "IEEEXtreme 17 – Competencia de programación (24h)"
+title: "IEEEXtreme 17"
 description: 'Mi primer experiencia con la programación competitiva en equipos'
 date: "Oct 28 2023"
 draft: false
